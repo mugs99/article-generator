@@ -1,0 +1,1 @@
+apikey = 'INSERT OPENAI SECRET KEY HERE'
